@@ -1,4 +1,4 @@
-# DSII 2017 | Laboratorio design di sistemi interattivi per informazione (ICAR/13)
+# DSII 2018 | Laboratorio design di sistemi interattivi per informazione (ICAR/13)
 
 Docente: _Daniele Tabellini_ [@fupete](http://twitter.com/fupete) ([github.com/fupete](http://github.com/fupete))  
 Collaboratore: _Giuseppe D'Ambrosio_  ([github.com/dambrosiodesigner](http://github.com/dambrosiodesigner))
@@ -36,7 +36,7 @@ Evidendiare, far emergere, rendere tangibili e dotate di fisicità quelle _carat
 Partecipazione. Lapis e carta. Software e hardware opensource (Git, Atom, Processing, P5.js, Raw, Openrefine, Arduino, ...). Computer e device con approccio BYOD (Bring Your Own Device). Laboratorio di fotografia e stampa 3D
 
 ### _Repository_
-[github.com/dsii-2017-unirsm](https://github.com/dsii-2017-unirsm)
+[github.com/dsii-2018-unirsm](https://github.com/dsii-2018-unirsm)
 
 ## Modalità esame
 Esame orale, presentazione e analisi del progetto (prototipo/i, _code_,  documentazione e contributi), discussione 
@@ -73,13 +73,13 @@ _Molti altri materiali di approfondimento saranno segnalati durante il laborator
 Conoscenza lingua inglese. Attitudine alla collaborazione. Iniziativa e spirito critico.
 
 ## Orario di ricevimento
-Giovedì ore 18:30
+Lunedì ore 18:30
 
 ## syllabus
 
-2 Marzo - 24 Marzo **intro | concept | tools**    
-30 Marzo - 21 Aprile **research | concept**   
-27 Aprile - 25 Maggio **design | prototype | doc**  
-1 Giugno - 9 Giugno **show**
+19 Febbraio - 10 Aprile **intro | concept | tools**    
+19 Marzo - 24 Aprile **research | concept**   
+23 Aprile - 23 Maggio **design | prototype | doc**  
+28 Maggio - 5 Giugno **show**
 
 Dettagliato: [syllabus.md](/syllabus.md)
