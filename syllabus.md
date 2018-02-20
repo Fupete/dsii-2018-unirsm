@@ -13,3 +13,24 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 ## W1
 ### Introduzione. _Digital Art and Meaning._
+
+![Vectorial Elevation, 1999, Rafael Lozano-Hemmer](http://i.imgur.com/BNxP95K.jpg?1) ![Urban/Mexico City, 2007, Spencer Tunick](http://i.imgur.com/XHkkirH.jpg?1) 
+
+- _Vectorial Elevation_, 1999, Rafael Lozano-Hemmer [+](http://www.lozano-hemmer.com/vectorial_elevation.php)
+- _Urban/Mexico City_, 2007, Spencer Tunick [+](https://vimeo.com/6988932)
+
+### Lab
+- _Close reading: what is | what does it mean | how it works | what if_
+- _The Cognitive Style of PowerPoint_, Edward Tufte [+](http://www.edwardtufte.com/tufte/books_pp) [+](http://users.ha.uth.gr/tgd/pt0501/09/Tufte.pdf)
+- _Hackers & Painters_, Paul Graham [+](http://www.paulgraham.com/hp.html) [+](http://paulgraham.com/hackpaint.html)
+- _10 Print_, AA.VV. [+](http://www.10print.org)
+- Vice the Versatile Commodore Emulator [+](http://vice-emu.sourceforge.net/)
+- FS-UAE Amiga Emulator [+](http://fs-uae.net/)
+- Deluxe Paint I [+](http://www.computerhistory.org/atchm/electronic-arts-deluxepaint-early-source-code/)
+
+###### compito
+1. _I numeri dell'influenza._ Dati, fonti e attendibilità
+2. _10 Print_/Cap. 35, _porting in processing_ + variazioni _significative_
+
+###### compito/progetto
+1. Git/Github hello
