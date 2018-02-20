@@ -4,7 +4,7 @@ Docente: _Daniele Tabellini_ [@fupete](http://twitter.com/fupete) ([github.com/f
 Collaboratore: _Giuseppe D'Ambrosio_  ([github.com/dambrosiodesigner](http://github.com/dambrosiodesigner))
 
 **Corso di Laurea magistrale in Design**   
-**A/A 2016-17** [@unirsm](http://twitter.com/unirsm) ([design.unirsm.sm](http://design.unirsm.sm))  
+**A/A 2017-18** [@unirsm](http://twitter.com/unirsm) ([design.unirsm.sm](http://design.unirsm.sm))  
 Università della Repubblica di San Marino
 
 ---
