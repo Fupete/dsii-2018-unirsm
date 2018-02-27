@@ -63,6 +63,9 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - Linguaggi di programmazione _creativa_
   - { _scritti_ } Processing, OpenFrameworks, Cinder, ...
   - { _visivi_ } Isadora, Touch Designer, Pure Data, ...
+- Live coding
+- Collaborative programming
+  - Teletype [+](teletype.atom.io)
 
 ###### letture/progetto W2
 1. lettura tre casi studio di riferimento
