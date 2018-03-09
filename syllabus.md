@@ -67,5 +67,12 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - Collaborative programming
   - Teletype [+](http://teletype.atom.io)
 
-###### letture/progetto W2
+###### Letture/progetto W2
 1. lettura tre casi studio di riferimento
+
+### Altri materiali da approfondire (via slack #general #materiali)
+- Sull'open source
+  - _What Does “Open Source” Even Mean?_, Jen Kagan [+](https://medium.com/@kenjagan/what-does-open-source-even-mean-6bd47befe696)
+  - _Processing and FLOSS_, Casey Reas [+](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c)
+- Tutorial _Hello world_ Processing [+](http://hello.processing.org/) [+](https://vimeo.com/140600280)
+- Editor IDE per P5js (alpha) [+](https://editor.p5js.org/)
