@@ -72,3 +72,14 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
   - _Processing and FLOSS_, Casey Reas [+](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c)
 - Tutorial _Hello world_ Processing [+](http://hello.processing.org/) [+](https://vimeo.com/140600280)
 - Editor IDE per P5js (alpha) [+](https://editor.p5js.org/)
+
+
+## W3
+### Tre casi studio. _Making visible._
+
+![The flow towards Europe, 2015, Lucify](http://i.imgur.com/k9lRhdY.png?1) ![Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen](http://i.imgur.com/4wU4Oia.jpg?1) ![Monument, 2006, Caleb Larsen](http://i.imgur.com/8PHa7mG.jpg?1)
+
+- _The flow towards Europe_, 2015, Lucify [+](http://www.lucify.com/the-flow-towards-europe/) [+](https://medium.com/@lucify/a-novel-visualisation-of-the-refugee-crisis-565e40ab5a50#.wgzzkbfpn)  
+- _Immaterials: Light painting WiFi_, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen [+](http://www.nearfield.org/2011/02/wifi-light-painting) [+](http://www.yourban.no/2011/03/07/making-immaterials-light-painting-wifi/) [+](http://www.yourban.no/2012/06/06/projects-inspired-by-immaterials-light-painting-wifi/)  
+- _Monument_, 2006, Caleb Larsen [+](http://www.podcast-directory.co.uk/episodes/monument-if-it-bleeds-it-leads-caleb-larsen-15152482.html) [+](http://caleblarsen.com/monument/)  
+
