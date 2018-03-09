@@ -47,6 +47,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Museo audiovisivo della Resistenza_, 2000, Studio Azzurro [+](http://www.studioazzurro.com/index.php?com_works=&view=detail&work_id=68&option=com_works&Itemid=22&lang=en) [+](https://vimeo.com/34843796)
 
 ### Lab
+- _Close reading/what does it mean_: metodo e approccio
 - Processing [+](http://www.processing.org)
   - editor IDE | console | play
 - P5js [+](http://www.p5js.org)
@@ -60,10 +61,6 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - Risorse utili
   - Open Processing [+](https://www.openprocessing.org/)
   - Daniel Shiffman / _The Coding Train_ [+](http://shiffman.net/) [+](http://thecodingtrain.com/)
-- Linguaggi di programmazione _creativa_
-  - { _scritti_ } Processing, OpenFrameworks, Cinder, ...
-  - { _visivi_ } Isadora, Touch Designer, Pure Data, ...
-- Live coding
 - Collaborative programming
   - Teletype [+](http://teletype.atom.io)
 
