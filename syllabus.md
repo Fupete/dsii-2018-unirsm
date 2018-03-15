@@ -72,3 +72,29 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
   - _Processing and FLOSS_, Casey Reas [+](https://medium.com/processing-foundation/processing-and-floss-d35aa4607f4c)
 - Tutorial _Hello world_ Processing [+](http://hello.processing.org/) [+](https://vimeo.com/140600280)
 - Editor IDE per P5js (alpha) [+](https://editor.p5js.org/)
+
+
+## W3
+### Giochi senza frontiere: Processing. _Making visible._
+
+### Lab
+- esercitazione, giochi senza frontiere [+](https://github.com/dsii-2018-unirsm/archive/tree/master/2018/W3/esercitazione)
+- Giro in giro. Making visible. Sulle cose invisibili. Sul visibile. Sui territori inesplorati. Approccio alla progettazione e al concept design. Camminare, silenzio e occhi chiusi. Vediamo col cervello. 
+- _Sul guardare_, _Ways of seeing_, ..., John Berger [+](https://www.youtube.com/watch?v=0pDE4VX_9Kk)
+- _Guardare, pensare, progettare. Neuroscienze per il design_, Riccardo Falcinelli [+](http://aiapzine.aiap.it/notizie/13565)
+- Git / Github [+](https://git-scm.com/) [+](https://github.com/)
+- Github _workflow_: _pull request_, _merge_, discussioni, _history_, _graphics_... [+](https://guides.github.com/introduction/flow/) [+](https://guides.github.com/)
+
+###### letture/progetto
+1. rilettura tre casi studio di riferimento
+2. dare un'occhiata ai 3–4 progetti DSII2017 che portiamo all'Open Day 2018
+
+###### compiti/esercitazione Processing
+1. programmare un generatore casuale di parole
+2. programmare un generatore di pattern usando la regolarità del modulo %
+
+### Altri materiali da approfondire (via slack #general #materiali)
+- _Nature of code_, Daniel Shiffman, cap. introduzione e 1 vettori [+](http://natureofcode.com/book/introduction/) [+](http://natureofcode.com/book/chapter-1-vectors/)
+- _Changes over time_, tutorial, Allison Parrish [+](https://creative-coding.decontextualize.com/changes-over-time/)
+
+###### { d'ora in poi tutte consegne su Github via _pull request_ }
