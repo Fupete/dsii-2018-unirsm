@@ -75,11 +75,25 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 
 ## W3
-### Tre casi studio. _Making visible._
+### Giochi senza frontiere: Processing. _Making visible._
 
-![The flow towards Europe, 2015, Lucify](http://i.imgur.com/k9lRhdY.png?1) ![Immaterials: Light painting WiFi, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen](http://i.imgur.com/4wU4Oia.jpg?1) ![Monument, 2006, Caleb Larsen](http://i.imgur.com/8PHa7mG.jpg?1)
+### Lab
+- esercitazione, giochi senza frontiere [+](https://github.com/dsii-2018-unirsm/archive/tree/master/2018/W3/esercitazione)
+- _Sul guardare_, _Ways of seeing_, ..., John Berger [+](https://www.youtube.com/watch?v=0pDE4VX_9Kk)
+- _Guardare, pensare, progettare. Neuroscienze per il design_, Riccardo Falcinelli [+](http://aiapzine.aiap.it/notizie/13565)
+- Git / Github [+](https://git-scm.com/) [+](https://github.com/)
+- Github _workflow_: _pull request_, _merge_, discussioni, _history_, _graphics_... [+](https://guides.github.com/introduction/flow/) [+](https://guides.github.com/)
 
-- _The flow towards Europe_, 2015, Lucify [+](http://www.lucify.com/the-flow-towards-europe/) [+](https://medium.com/@lucify/a-novel-visualisation-of-the-refugee-crisis-565e40ab5a50#.wgzzkbfpn)  
-- _Immaterials: Light painting WiFi_, 2012, Timo Arnall, Jørn Knutsen and Einar Sneve Martinussen [+](http://www.nearfield.org/2011/02/wifi-light-painting) [+](http://www.yourban.no/2011/03/07/making-immaterials-light-painting-wifi/) [+](http://www.yourban.no/2012/06/06/projects-inspired-by-immaterials-light-painting-wifi/)  
-- _Monument_, 2006, Caleb Larsen [+](http://www.podcast-directory.co.uk/episodes/monument-if-it-bleeds-it-leads-caleb-larsen-15152482.html) [+](http://caleblarsen.com/monument/)  
+###### letture/progetto
+1. rilettura tre casi studio di riferimento
+2. dare un'occhiata ai 3–4 progetti DSII2017 che portiamo all'Open Day 2018
 
+###### compiti/esercitazione Processing
+1. programmare un generatore casuale di parole
+2. programmare un generatore di pattern usando la regolarità del modulo %
+
+### Altri materiali da approfondire (via slack #general #materiali)
+- _Nature of code_, Daniel Shiffman, cap. introduzione e 1 vettori [+](http://natureofcode.com/book/introduction/) [+](http://natureofcode.com/book/chapter-1-vectors/)
+- _Changes over time_, tutorial, Allison Parrish [+](https://creative-coding.decontextualize.com/changes-over-time/)
+
+###### { d'ora in poi tutte consegne su Github via _pull request_ }
