@@ -79,6 +79,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 
 ### Lab
 - esercitazione, giochi senza frontiere [+](https://github.com/dsii-2018-unirsm/archive/tree/master/2018/W3/esercitazione)
+- Giro in giro. Making visible. Sulle cose invisibili. Sul visibile. Sui territori inesplorati. Approccio alla progettazione e al concept design. Camminare, silenzio e occhi chiusi. Vediamo col cervello. 
 - _Sul guardare_, _Ways of seeing_, ..., John Berger [+](https://www.youtube.com/watch?v=0pDE4VX_9Kk)
 - _Guardare, pensare, progettare. Neuroscienze per il design_, Riccardo Falcinelli [+](http://aiapzine.aiap.it/notizie/13565)
 - Git / Github [+](https://git-scm.com/) [+](https://github.com/)
