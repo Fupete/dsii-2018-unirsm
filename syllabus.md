@@ -98,3 +98,19 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 - _Changes over time_, tutorial, Allison Parrish [+](https://creative-coding.decontextualize.com/changes-over-time/)
 
 ###### { d'ora in poi tutte consegne su Github via _pull request_ }
+
+
+## W4
+### Pre-Openday. _The Flu issue._
+
+#### Lab
+- _gdoc_ [+](https://github.com/dsii-2018-unirsm/dsii-2018-unirsm.github.io/tree/master/2018/gdoc)
+- _oop_ [+](https://github.com/dsii-2018-unirsm/dsii-2018-unirsm.github.io/tree/master/2018/oop)
+- _gdoc+oop+anim_ [+](https://github.com/dsii-2018-unirsm/dsii-2018-unirsm.github.io/tree/master/2018/gdoc%2Boop%2Banim)
+
+###### letture/progetto
+1. rilettura tre casi studio di riferimento
+
+###### compiti/esercitazioni P5js/Processing
+1. riordinare materiali
+2. proseguire i lavori Flu e 10Print
