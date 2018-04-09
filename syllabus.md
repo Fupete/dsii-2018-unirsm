@@ -155,6 +155,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
     - _This 30-min presentation from Cambridge Analytica Head of Digital (from a 2017 conference talk) ..._/ a tweet by Lev Manovich [+](https://twitter.com/manovich/status/978327681019375616)
   - ML, DL and Design ideas
     - Image-to-Image Demo, Christopher Hesse [+](https://affinelayer.com/pixsrv/)
+    - Style Tranfer, Gene Kogan [+](http://genekogan.com/works/style-transfer/)
     - ml5, Daniel Shiffman [+](https://ml5js.github.io/)
     - Airbnb design/ _Sketching interfaces ..._ [+](https://airbnb.design/sketching-interfaces/)
     
