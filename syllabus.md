@@ -171,3 +171,9 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ###### compiti/esercitazioni P5js/Processing
 1. riordinare materiali
 2. proseguire i lavori Flu e 10Print
+
+
+## W6
+### _Arduino & friends._
+
+
