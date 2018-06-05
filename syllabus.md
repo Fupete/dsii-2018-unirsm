@@ -208,13 +208,12 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ## W10
 ### Lab progetto, revisione prototipo/i.
 
-cp5 / e vs per P5js
+### Lab
 
-mappa.js ( segnalarlo e basta )
-
-rawgraphs.io ( segnalarlo e basta )
-
-doc approfondire come scriverlo e cosa metterci
+- Documentazione progetto
+- ControlP5 [+](http://www.sojamo.de/libraries/controlP5/)
+- mappa.js [+](https://github.com/cvalenzuela/Mappa)
+- rawgraphs.io [+](https://rawgraphs.io/)
 
 ## W11
 ### Lab progetto, revisione prototipo/i e critica collettiva, _milestone_.
