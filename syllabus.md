@@ -146,7 +146,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
   - Memoriale per gli Ebrei assassinati d'Europa, Berlino [+](https://en.wikipedia.org/wiki/Memorial_to_the_Murdered_Jews_of_Europe) [+](https://goo.gl/x53RyZ)
   - Strandbeest/ Theo Janseen [+](https://www.youtube.com/watch?v=LewVEF2B_pM) [+](http://www.strandbeest.com)
   - Schrödinger's Cat [+](https://www.youtube.com/watch?v=IOYyCHGWJq4) [+](https://www.washingtonpost.com/news/speaking-of-science/wp/2016/05/27/schrodingers-cat-just-got-even-weirder-and-even-more-confusing/?utm_term=.d9e5fa217e1f)
-  
+
 - A wednesday morning focus on contemporary:
   - Sketch Machine by Casey Reas [+](https://sketchmachine.net/) [+](https://github.com/REAS/sketchmachine)
     - Weird Drawing Software [+](https://github.com/REAS/sketchmachine/wiki/Weird-Drawing-Software)
@@ -158,7 +158,7 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
     - Style Tranfer, Gene Kogan [+](http://genekogan.com/works/style-transfer/)
     - ml5, Daniel Shiffman [+](https://ml5js.github.io/)
     - Airbnb design/ _Sketching interfaces ..._ [+](https://airbnb.design/sketching-interfaces/)
-    
+
 - Who am I:
   - Linkedin [+](https://www.linkedin.com/in/danieletabellini/) | Teller & K (former Fupete) [+](https://www.tellerk.com) | Nasonero [+](www.nasonero.com) | Lcd [+](http://www.lcd.it)
 
@@ -176,4 +176,75 @@ _Digital Art and Meaning: ..._, Simanowski 2011 :
 ## W6
 ### _Arduino & friends._
 
+### Lab
 
+- Progetto, revisione.
+- Arduino:  [+](https://www.arduino.cc/)
+  - IDE [+](https://www.arduino.cc/en/Main/Software?)
+  - Analog & Digital
+  - Input: Read Analogic <> processing [+](https://github.com/dsii-2018-unirsm/archive/tree/master/2018/arduino/processing/input)
+  - Output: Write Digital "Physical Pixel" <> processing [+](https://github.com/dsii-2018-unirsm/archive/tree/master/2018/arduino/processing/output)
+  - p5.serial: [+](https://github.com/vanevery/p5.serialport)
+    - App [+](https://github.com/vanevery/p5.serialcontrol/releases)
+    - Input: Read Analogic <> P5 [+](https://github.com/vanevery/p5.serialport/tree/master/examples/readAndAnimate)
+    - Output: Write Digital "Physical Pixel" <> P5 [+](https://github.com/vanevery/p5.serialport/tree/master/examples/writeExample)
+
+## W7
+### _Proposte progettuali._
+
+![No Fun, 2010, Eva & Franco Mattes](http://i.imgur.com/Vc5KjWR.jpg?1)
+
+- _No Fun_, 2010, Eva & Franco Mattes [+](https://0100101110101101.org/no-fun/)[+](https://0100101110101101.org/)
+
+### Lab
+- Progetto, revisione
+- Google Maps Platform/ _"Trasforma il mondo in un parco giochi"_ [+](https://www.theverge.com/2018/3/14/17114494/google-maps-location-games-jurassic-world-walking-dead)[+](https://cloud.google.com/maps-platform/gaming/)
+- _Speculative Everything. Design, Fiction, and Social Dreaming_, 2013, Anthony Dunne & Fiona Raby [+](https://mitpress.mit.edu/books/speculative-everything)
+
+
+## W8–W9
+### Lab progetto, revisione, _milestone._
+
+## W10
+### Lab progetto, revisione prototipo/i.
+
+cp5 / e vs per P5js
+
+mappa.js ( segnalarlo e basta )
+
+rawgraphs.io ( segnalarlo e basta )
+
+doc approfondire come scriverlo e cosa metterci
+
+## W11
+### Lab progetto, revisione prototipo/i e critica collettiva, _milestone_.
+
+![The Secret Lives of Numbers, 2002, Golan Levine](http://i.imgur.com/qDrLG5X.jpg?1)
+![Messa di Voce, 2003, Golan Levin, Zachary Lieberman, Jaap Blonk, and Joan La Barbara](https://i.imgur.com/4zo8pF8.jpg?1)
+
+- _The Secret Lives of Numbers_, 2002, Golan Levin [+](http://www.flong.com/projects/slon/)
+- _Messa di voce_, 2004, Golan Levin, Zachary Lieberman, Jaap Blonk, and Joan La Barbara [+](http://www.flong.com/projects/messa/)
+
+### Lab
+
+- Progetto ed esercitazioni P5js/Processing, revisione/i
+- _Guest Tutorial #6: The Modulo Operator with Golan Levin_, 2017, Daniel Shiffman "The Coding Train" by Golan Levin [+](https://www.youtube.com/watch?v=r5Iy3v1co0A)
+- Praxis Live [+](https://www.praxislive.org/)
+- About Machine Learning:
+  - _Exploratory Programming for the Arts and Humanities_, 2016, Nick Montfort [+](https://mitpress.mit.edu/books/exploratory-programming-arts-and-humanities)
+  - Python/Jupyter [+](http://jupyter.org/)[+](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/What%20is%20the%20Jupyter%20Notebook.ipynb#)
+  - Python/Colaboratory [+](https://colab.research.google.com/)[+](https://colab.research.google.com/)
+  - _Machine Learning Crash Course with TensorFlow APIs_ by Google [+](https://developers.google.com/machine-learning/crash-course/)
+
+### Progetto
+
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
